@@ -1,4 +1,4 @@
-## Welcome 
+## "I have no special talent, I am only passionately curious"
 ![R](https://github.com/user-attachments/assets/3c823f8b-2927-4423-bf37-d3cd08e15c8d)
 
 ![GitHub followers](https://github-readme-stats.hackclub.dev/api/wakatime?username=19276&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=shadow_blue)
