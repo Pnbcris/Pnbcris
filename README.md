@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-https://github-readme-stats.hackclub.dev/api/wakatime?username=19276&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=shadow_blue
+[https://github-readme-stats.hackclub.dev/api/wakatime?username=19276&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=shadow_blue]
 
-https://hackatime-badge.hackclub.com/U08BBLXCCFL/HackClub-Moonshot
+[https://hackatime-badge.hackclub.com/U08BBLXCCFL/HackClub-Moonshot]
 
 <!--
 **Pnbcris/Pnbcris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
